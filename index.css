@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background-color: red;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+}
+
+h2 {
+  color: #ff6f61;
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  width: 100%;
+  bottom: 0;
+  margin-top: 20px;
+}
+.imgpic{
+  padding-left: 50px;
+  padding-right: 90px;
+}
+
+.buttom{
+  align-items : flex-end;
+  background-color: transparent;
+  padding: 10px;
+  margin-bottom: 40px;
+  margin-left: 600px;
+  background-color: rgb(240, 10, 45);
+  color: #f9f9f9;
+  text-decoration: none;
+}
+
+.thikhyy{
+  background-color: rgb(203, 228, 238);
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
